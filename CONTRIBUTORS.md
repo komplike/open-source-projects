@@ -157,4 +157,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 147. [Ahmedraza](https://github.com/ahmedrazabaloch)
 148. [Yash-Mittal](https://github.com/yash358)
 149. [TechnoFreakCritic](https://github.com/Technofreakcritic)
-150. [komplike]{https://github.com/komplike)
+150. [Komplike](https://github.com/komplike)
